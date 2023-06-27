@@ -1,0 +1,16 @@
+{
+  "name": "sdk-aws-dynamo-integration",
+  "version": "1.0.0",
+  "description": "integration with aws sdk for dynamo ",
+  "main": "index.js",
+  "author": "Giulia Lage",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node app.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1405.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
